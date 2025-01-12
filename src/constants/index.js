@@ -9,7 +9,7 @@ export const ABOUT_TEXT = `Desenvolvedor Full Stack com expertise em criação e
 
 export const EXPERIENCES = [
   {
-    year: "2024 - Present",
+    year: "2024 - 2025",
     role: "Mid-level Software Developer",
     company: "Lar Cooperativa Agroindustrial",
     description: `Desenvolvimento do aplicativo LarDigital, com foco em back-end. Responsável pela criação e manutenção de funcionalidades críticas, garantindo integração eficiente dos sistemas e performance robusta da aplicação.`,
