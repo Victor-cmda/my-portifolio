@@ -36,7 +36,7 @@ Portfólio pessoal desenvolvido com React e Vite, apresentando minha jornada pro
 git clone https://github.com/Victor-cmda/my-portfolio.git
 
 # Entre no diretório
-cd my-portifolio
+cd my-portfolio
 
 # Instale as dependências
 npm install
