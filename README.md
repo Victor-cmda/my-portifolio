@@ -83,7 +83,7 @@ O site é totalmente responsivo e se adapta a diferentes tamanhos de tela:
 
 - LinkedIn: [Victor Hugo Somavilla](https://linkedin.com/in/victorhugosomavilla)
 - Email: victor.somavilla@aol.com
-- GitHub: [@seu-usuario](https://github.com/Victor-cmda)
+- GitHub: [@Victor-cmda](https://github.com/Victor-cmda)
 
 ---
 
