@@ -78,7 +78,7 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "Foz do Iguaçu, PR, Brasil",
-  phoneNo: "(55) 45-984063065",
+  phoneNo: "+55 (45) 98406-3065",
   email: "victor.somavilla@aol.com",
   github: "https://github.com/Victor-cmda",
   linkedin: "https://linkedin.com/in/victorhugosomavilla",
