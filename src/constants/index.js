@@ -10,31 +10,38 @@ export const ABOUT_TEXT = `Desenvolvedor Full Stack com expertise em criação e
 export const EXPERIENCES = [
   {
     year: "2024 - 2025",
-    role: "Mid-level Software Developer",
+    role: "Desenvolvedor Full-Stack Pleno",
     company: "Lar Cooperativa Agroindustrial",
     description: `Desenvolvimento do aplicativo LarDigital, com foco em back-end. Responsável pela criação e manutenção de funcionalidades críticas, garantindo integração eficiente dos sistemas e performance robusta da aplicação.`,
     technologies: ["C#", ".NET", "React", "SQL Server"],
   },
   {
     year: "2022 - 2024",
-    role: "Desenvolvedor",
+    role: "Desenvolvedor Full-Stack Júnior",
     company: "IntellTech",
     description: `Desenvolvimento de aplicações usando C# e Akka.NET para criar sistemas distribuídos e escaláveis. Gerenciamento de concorrência e comunicação entre atores, com foco em performance e escalabilidade.`,
     technologies: ["C#", "Akka.NET", "SQL Server", "Sistemas Distribuídos"],
   },
   {
     year: "2022",
-    role: "Desenvolvedor",
+    role: "Desenvolvedor Full-Stack Júnior",
     company: "SOFT-TI Informática",
     description: `Desenvolvimento de aplicações com C#, JavaScript e frameworks como Angular. Responsável pela escrita, depuração e teste de código, garantindo alta qualidade e performance do software.`,
     technologies: ["C#", "JavaScript", "Angular", "SQL Server"],
   },
   {
     year: "2021 - 2022",
-    role: "Desenvolvedor",
+    role: "Desenvolvedor RPA",
     company: "Reuter Contabilidade",
     description: `Desenvolvimento de soluções de automação na plataforma UiPath. Responsável pelo levantamento de requisitos, análise de processos e implementação de soluções automatizadas.`,
     technologies: ["UiPath", "RPA", "Automação"],
+  },
+  {
+    year: "2020 - 2021",
+    role: "Desenvolvedor Delphi Júnior",
+    company: "Viasoft Korp ERP",
+    description: `Desenvolvimento de aplicações com Delphi. Responsável pela escrita, depuração e teste de código, garantindo alta qualidade e performance do software.`,
+    technologies: ["Delphi", "XML", "Pascal", "SQL Server"],
   },
 ];
 
@@ -70,7 +77,9 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Foz do Iguaçu, PR, Brasil - 85862395",
+  address: "Foz do Iguaçu, PR, Brasil",
   phoneNo: "(55) 45-984063065",
   email: "victor.somavilla@aol.com",
+  github: "https://github.com/Victor-cmda",
+  linkedin: "https://linkedin.com/in/victorhugosomavilla",
 };
